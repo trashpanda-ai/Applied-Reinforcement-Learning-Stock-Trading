@@ -37,8 +37,7 @@ Incorporating the concept of market making, we can leverage the robo-advisor as 
 To further extend the scope of our project, we propose exploring complex derivatives, such as options, to hedge risks associated with vanilla stock trading. By incorporating **option pricing and hedging strategies**, our agent can handle more sophisticated trading scenarios and provide a more comprehensive trading solution.
 
 ## Team Members
-
-- Lorena, Viktoria, Mohamad, Jonas 
+Lorena, Viktoria, Mohamad, Jonas 
 
 Feel free to reach out to any team member if you have any questions, suggestions, or collaboration opportunities related to this project.
 

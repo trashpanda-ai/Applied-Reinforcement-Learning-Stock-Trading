@@ -38,10 +38,7 @@ To further extend the scope of our project, we propose exploring complex derivat
 
 ## Team Members
 
-- Lorena @wemmer
-- Viktoria @viqi
-- Mohamad @mhgog
-- Jonas @0000000001333E65
+- Lorena, Viktoria, Mohamad, Jonas 
 
 Feel free to reach out to any team member if you have any questions, suggestions, or collaboration opportunities related to this project.
 
